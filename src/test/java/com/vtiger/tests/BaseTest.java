@@ -42,6 +42,7 @@ public class BaseTest   {
 	@BeforeSuite()
 	public void Intiation()
 	{
+		System.out.println("This is main 's code");
 		createExtentReport();
 		//System.exit(0);
 		System.out.println("Iniation is in progress");

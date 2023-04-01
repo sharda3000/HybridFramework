@@ -7,5 +7,5 @@
       <class name="com.vtiger.tests.LeadTest"/>
       
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- suite -->
+  </test> 
+</suite> 
